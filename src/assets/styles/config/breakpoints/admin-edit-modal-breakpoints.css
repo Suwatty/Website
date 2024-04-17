@@ -1,5 +1,0 @@
-@media (max-height: 500px) {
-  .admin-items.modal {
-    overflow: auto; /*? will let you scroll*/
-  }
-}
